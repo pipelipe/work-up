@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Plan de Entrenamiento de Resistencia de 7 Días para Principiantes</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+        }
+        h1, h2 {
+            color: #333;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            margin: 5px 0;
+        }
+        .day {
+            margin-bottom: 20px;
+        }
+        .rest {
+            color: #007BFF;
+        }
+    </style>
+</head>
+<body>
+    <h1>Plan de Entrenamiento de Resistencia de 7 Días para Principiantes</h1>
+    
+    <div class="day">
+        <h2>Día 1: Parte Superior del Cuerpo</h2>
+        <ul>
+            <li>Flexiones: 3 series de 8-12 repeticiones</li>
+            <li>Press de Banca con Mancuernas: 3 series de 8-12 repeticiones</li>
+            <li>Remo con Mancuernas: 3 series de 8-12 repeticiones por lado</li>
+            <li>Press de Hombros: 3 series de 8-12 repeticiones</li>
+            <li>Curl de Bíceps: 3 series de 10-15 repeticiones</li>
+            <li>Fondos de Tríceps: 3 series de 10-15 repeticiones</li>
+        </ul>
+    </div>
+
+    <div class="day">
+        <h2>Día 2: Parte Inferior del Cuerpo</h2>
+        <ul>
+            <li>Sentadillas con Peso Corporal: 3 series de 12-15 repeticiones</li>
+            <li>Zancadas: 3 series de 10-12 repeticiones por pierna</li>
+            <li>Peso Muerto (usar pesas ligeras o solo la barra): 3 series de 10-12 repeticiones</li>
+            <li>Puente de Glúteos: 3 series de 15 repeticiones</li>
+            <li>Elevaciones de Talones: 3 series de 15-20 repeticiones</li>
+        </ul>
+    </div>
+
+    <div class="day rest">
+        <h2>Día 3: Descanso o Actividad Ligera</h2>
+        <ul>
+            <li>Opción 1: Cardio ligero (caminar, andar en bicicleta, etc.)</li>
+            <li>Opción 2: Rutina de yoga o estiramientos</li>
+        </ul>
+    </div>
+
+    <div class="day">
+        <h2>Día 4: Cuerpo Completo</h2>
+        <ul>
+            <li>Burpees: 3 series de 8-12 repeticiones</li>
+            <li>Kettlebell Swings: 3 series de 12-15 repeticiones</li>
+            <li>Thrusters con Mancuernas: 3 series de 10-12 repeticiones</li>
+            <li>Plancha: 3 series de 30-60 segundos</li>
+            <li>Giros Rusos: 3 series de 20 repeticiones (10 por lado)</li>
+        </ul>
+    </div>
+
+    <div class="day">
+        <h2>Día 5: Parte Superior del Cuerpo</h2>
+        <ul>
+            <li>Dominadas o Dominadas Asistidas: 3 series de 5-10 repeticiones</li>
+            <li>Aperturas con Mancuernas: 3 series de 10-12 repeticiones</li>
+            <li>Elevaciones Laterales: 3 series de 10-15 repeticiones</li>
+            <li>Curl Martillo: 3 series de 10-15 repeticiones</li>
+            <li>Extensiones de Tríceps: 3 series de 10-15 repeticiones</li>
+        </ul>
+    </div>
+
+    <div class="day">
+        <h2>Día 6: Parte Inferior del Cuerpo</h2>
+        <ul>
+            <li>Sentadillas con Mancuerna: 3 series de 12-15 repeticiones</li>
+            <li>Subidas al Banco (usando un banco o una silla resistente): 3 series de 10 repeticiones por pierna</li>
+            <li>Peso Muerto Rumano: 3 series de 10-12 repeticiones</li>
+            <li>Patadas de Burro: 3 series de 15 repeticiones por lado</li>
+            <li>Elevaciones de Talones Sentado: 3 series de 15-20 repeticiones</li>
+        </ul>
+    </div>
+
+    <div class="day rest">
+        <h2>Día 7: Descanso o Recuperación Activa</h2>
+        <ul>
+            <li>Opción 1: Cardio ligero (caminar, nadar, etc.)</li>
+            <li>Opción 2: Estiramientos o yoga suave</li>
+        </ul>
+    </div>
+
+    <h2>Notas:</h2>
+    <ul>
+        <li><strong>Descanso Entre Series:</strong> 30-60 segundos.</li>
+        <li><strong>Progresión:</strong> Aumentar gradualmente el peso o la resistencia a medida que te fortalezcas.</li>
+        <li><strong>Forma:</strong> Enfócate en la forma correcta para evitar lesiones. Si tienes dudas, considera trabajar con un entrenador al principio.</li>
+        <li><strong>Hidratación y Nutrición:</strong> Mantente hidratado y lleva una dieta equilibrada para apoyar tu entrenamiento.</li>
+    </ul>
+</body>
+</html>
